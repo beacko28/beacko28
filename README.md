@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning Java, WebDevelopment, IA.
+- 🔭 I’m currently working as WebDesigner.
+- 🌱 I’m currently learning PHP, Bootstrap, HTML, CSS.
 - 👯 I’m looking to collaborate on everything that could give me knowledge.
 - 🤔 I’m looking for help with WebDevelopment.
 - 💬 Ask me about Science, Dinossaurs, Dragons, Drawnings, Video and Photo Editing, Hardware.
